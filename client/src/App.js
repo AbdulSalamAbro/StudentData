@@ -26,7 +26,7 @@ const App = () => {
     <div className='container'>
     <div className="row bg-light mt-3" >
             <div className="offset-4 col-md-8">
-            <span class="display-1">Student Data</span>  <img src={memories}  height="100" alt=""/>
+            <span class="display-1">Students Data</span>  <img src={memories}  height="100" alt=""/>
             </div>
             {/* <div className="col-md-6">
                 form input data
